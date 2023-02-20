@@ -1,0 +1,14 @@
+1. NodeJS
+
+- node -v
+
+2. ReactJS - create-react-app
+
+- npx react-create-app "name of ReactJS project here"
+
+- npx create-react-app react-portfolio
+
+3. Navigate To Project Folder
+
+- cd react-project
+
